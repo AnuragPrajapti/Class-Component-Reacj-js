@@ -1,0 +1,18 @@
+
+.Nav
+{
+ background-color:black;
+ height:7%;  
+}
+.Nav ul
+{
+    
+ list-style:none;    
+}
+.Nav li
+{
+   
+    padding: 10px;
+    display: inline-block;
+    margin:10px 40px 0 40px;
+}
